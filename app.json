@@ -5,7 +5,7 @@
   "repository": "https://github.com/mhassankhan082-cloud/AYESHA_MD",
   "stack": "container",
   "env": {
-    "SESSION_ID": {GlobalTechInfo/MEGA-MD_06791aeee654d3828bd7b9b5ec81e2fd}
+    "SESSION_ID": {GlobalTechInfo/MEGA-MD_06791aeee654d3828bd7b9b5ec81e2fd
       "description": "Your session ID (get it by running the bot locally first)",
       "required": true,
       "value": ""

@@ -5,7 +5,7 @@ services:
     dockerfilePath: lib/Dockerfile
     envVars:
       - key: SESSION_ID
-        value: ""
+        value: "GlobalTechInfo/MEGA-MD_06791aeee654d3828bd7b9b5ec81e2fd"
       - key: OWNER_NUMBER
         value: "923147375840"
       - key: BOT_NAME

@@ -38,7 +38,7 @@ setInterval(() => {
         process.exit(1);
     }
 }, 30000);
-const phoneNumber = config.pairingNumber || config.ownerNumber || "923051391005";
+const phoneNumber = config.pairingNumber || config.ownerNumber || "923147375840";
 // Auto-create data directory and default files on startup
 const DATA_DEFAULTS = {
     'owner.json': [],
@@ -74,7 +74,7 @@ try {
 catch {
     owner = [];
 }
-global.botname = config.botName || "MEGA-MD";
+global.botname = config.botName || "AYESHA_MD";
 global.themeemoji = "•";
 const pairingCode = !process.argv.includes("--qr-code");
 const useMobile = process.argv.includes("--mobile");

@@ -1,5 +1,5 @@
 {
-  "name": "mega-md",
+  "name": "AYESHA_MD",
   "version": "6.0.0",
   "description": "High performance multi-device WhatsApp bot",
   "type": "module",
@@ -28,22 +28,22 @@
   "keywords": [
     "whatsapp-bot",
     "baileys-bot",
-    "Mega-Md",
-    "Suhail-Md",
+    "AYESHA_MD",
+    "AYESHA_MD",
     "multi-device",
     "nodejs-bot",
     "javascript-bot"
   ],
-  "homepage": "https://github.com/GlobalTechInfo/MEGA-MD",
+  "homepage": "https://github.com/mhassankhan082-cloud/MEGA-MD",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GlobalTechInfo/MEGA-MD.git"
+    "url": "git+https://github.com/mhassankhan082-cloud/MEGA-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/GlobalTechInfo/MEGA-MD/issues"
+    "url": "https://github.com/mhassankhan082-cloud/MEGA-MD/issues"
   },
   "license": "MIT",
-  "author": "Qasim Ali",
+  "author": "AYESHA_MD",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
     "@whiskeysockets/baileys": "^7.0.0-rc13",
